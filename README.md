@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Java and web developing and I have two cats😄.
 <!--
 **XJIA357/XJIA357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
